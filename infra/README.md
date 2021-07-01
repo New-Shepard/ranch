@@ -3,6 +3,7 @@
     > Because most of our potential customers reside in Korea.
 
 2. AWS CDK is the first option for the IaC in this project
+    > CDK reference : [aws-cdk github](https://github.com/aws/aws-cdk#getting-started)
 3. Folder structure will be devided as followed by service coverage characteristics of AWS resources.   
     > (e.g. AZ base / Regional base / Global service)
 
